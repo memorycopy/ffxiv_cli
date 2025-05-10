@@ -13,6 +13,7 @@
 - `main.py`: 运行模拟的主脚本。它演示了如何设置角色、运行武士循环以及分析结果。
 - `montecarlo.py`: 提供蒙特卡洛模拟的实用工具，为伤害分布分析提供不同的策略（标准、并行、内存优化）。
 - `convert_rotation.py`: 一个将纯文本格式的技能序列转换为模拟器使用的JSON格式的脚本。这主要用于读取我旧的以txt格式保存的循环数据。如果你想从其他来源加载数据，请编写自己的适配器。
+- `requirements.txt`: 列出本项目的Python依赖项。
 - `xivcore/`: 此目录包含模拟的核心逻辑。
     - `core.py`: 核心模拟引擎，处理事件、角色状态和战斗机制。
     - `common.py`: 通用数据结构和实用工具，例如角色装备组合和技能定义。
@@ -44,6 +45,20 @@
 这是模拟器生成的DPS随时间变化图表示例：
 
 ![DPS Over Time](dps_over_time.png)
+
+## 安装 💾
+
+1.  **克隆仓库 (如果尚未克隆):**
+    ```bash
+    git clone https://github.com/memorycopy/ffxiv_cli
+    cd ffxiv_cli
+    ```
+2.  **安装依赖:**
+    请确保您已安装 Python 和 pip。然后，在终端中导航到项目目录并运行：
+    ```bash
+    pip install -r requirements.txt
+    ```
+    *注意: `numba` 是一个可选依赖项，用于 `montecarlo.py` 中的某些模拟方法。即使没有它，模拟器也能正常运行，但某些性能优化可能无法使用。*
 
 ## 如何运行
 
