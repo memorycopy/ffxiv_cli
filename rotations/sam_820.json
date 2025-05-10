@@ -1,0 +1,2058 @@
+{
+  "name": "武士 7.05 820轴",
+  "gearset": {
+    "name": "武士 7.05 BiS 2.17GCD",
+    "job": "Samurai",
+    "level": 100,
+    "party_bonus": 1.05,
+    "weapon_damage": 146,
+    "weapon_delay": 2.64,
+    "main_attribute": 4872,
+    "critical_hit": 2896,
+    "determination": 2168,
+    "direct_hit": 2338,
+    "speed": 420
+  },
+  "actions": [
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": -12000
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": 0
+      }
+    },
+    {
+      "IKISHOTEN": {
+        "id": 16482,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "ZANSHIN": {
+        "id": 36964,
+        "time": null
+      }
+    },
+    {
+      "OGI_NAMIKIRI": {
+        "id": 25781,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_NAMIKIRI": {
+        "id": 25782,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "POTION": {
+        "id": 846,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "IKISHOTEN": {
+        "id": 16482,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "ZANSHIN": {
+        "id": 36964,
+        "time": null
+      }
+    },
+    {
+      "OGI_NAMIKIRI": {
+        "id": 25781,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_NAMIKIRI": {
+        "id": 25782,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "IKISHOTEN": {
+        "id": 16482,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "ZANSHIN": {
+        "id": 36964,
+        "time": null
+      }
+    },
+    {
+      "OGI_NAMIKIRI": {
+        "id": 25781,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_NAMIKIRI": {
+        "id": 25782,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "IKISHOTEN": {
+        "id": 16482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "ZANSHIN": {
+        "id": 36964,
+        "time": null
+      }
+    },
+    {
+      "OGI_NAMIKIRI": {
+        "id": 25781,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_NAMIKIRI": {
+        "id": 25782,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "HIGANBANA": {
+        "id": 7489,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "SHIFU": {
+        "id": 7479,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "JINPU": {
+        "id": 7478,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "POTION": {
+        "id": 846,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "GYOFU": {
+        "id": 36963,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "MIDARE_SETSUGEKKA": {
+        "id": 7487,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_SETSUGEKKA": {
+        "id": 16486,
+        "time": null
+      }
+    },
+    {
+      "MEIKYO_SHISUI": {
+        "id": 7499,
+        "time": null
+      }
+    },
+    {
+      "YUKIKAZE": {
+        "id": 7480,
+        "time": null
+      }
+    },
+    {
+      "GEKKO": {
+        "id": 7481,
+        "time": null
+      }
+    },
+    {
+      "THIRD_EYE": {
+        "id": 7498,
+        "time": null
+      }
+    },
+    {
+      "KASHA": {
+        "id": 7482,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SHINTEN": {
+        "id": 7490,
+        "time": null
+      }
+    },
+    {
+      "TENDO_SETSUGEKKA": {
+        "id": 36966,
+        "time": null
+      }
+    },
+    {
+      "HISSATSU_SENEI": {
+        "id": 16481,
+        "time": null
+      }
+    },
+    {
+      "TENDO_KAESHI_SETSUGEKKA": {
+        "id": 36968,
+        "time": null
+      }
+    },
+    {
+      "IKISHOTEN": {
+        "id": 16482,
+        "time": null
+      }
+    },
+    {
+      "ZANSHIN": {
+        "id": 36964,
+        "time": null
+      }
+    },
+    {
+      "OGI_NAMIKIRI": {
+        "id": 25781,
+        "time": null
+      }
+    },
+    {
+      "SHOHA": {
+        "id": 16487,
+        "time": null
+      }
+    },
+    {
+      "KAESHI_NAMIKIRI": {
+        "id": 25782,
+        "time": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Test Rotation",
+  "gearset": {
+    "name": "Samurai Test BiS",
+    "job": "Samurai",
+    "level": 100,
+    "party_bonus": 1.05,
+    "weapon_damage": 146,
+    "weapon_delay": 2.64,
+    "main_attribute": 4872,
+    "critical_hit": 2896,
+    "determination": 2168,
+    "direct_hit": 2338,
+    "speed": 420
+  }
+}
